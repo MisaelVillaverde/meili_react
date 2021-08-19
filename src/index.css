@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.header {
+  min-height: 450px;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("https://theme.zdassets.com/theme_assets/2153973/e3d2fc89c603e75bab57e7cf5510e1e07c88aea4.png");
+  background-size: cover !important;
+}
+
+.searchBox {
+  height: 64px;
+  max-width: 740px;
+}
